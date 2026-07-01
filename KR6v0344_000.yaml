@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0344/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 入中論講記
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0045.xml
+    old_id: B09n0045
+hash: sha256:968c62006a8a2b532862f6c0314d5a7628ad59480a08681990ffa27949168517

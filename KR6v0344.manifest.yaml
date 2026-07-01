@@ -1,0 +1,229 @@
+canonical_identifier: bkk:krp/KR6v0344/v1
+canonical_location: https://kanripo.org/bkk/KR6v0344/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 入中論講記
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B09/B09n0045.xml
+    old_id: B09n0045
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0344_000.yaml, hash: 'sha256:968c62006a8a2b532862f6c0314d5a7628ad59480a08681990ffa27949168517'}
+  - {seq: 1, filename: KR6v0344_001.yaml, hash: 'sha256:4c3d4f6b95bc2a756f27384b13d8a5d03894ce30262eb0581eff70e5c2ad36f7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0344_001.markers.yaml, hash: 'sha256:85628addcb8582b4388bb212707a71a5dbb86b98d3e84b9d49bdcbc410bae38a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 51467
+  label: 入中論講記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: 教乘所攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-3
+    span:
+    - body
+    - 487
+    - 487
+  label: 造論人介紹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-4
+    span:
+    - body
+    - 998
+    - 998
+  label: 本論之組織
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-5
+    span:
+    - body
+    - 1632
+    - 1632
+  label: 正釋頌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-6
+    span:
+    - body
+    - 1636
+    - 1636
+  label: 釋歸敬頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-7
+    span:
+    - body
+    - 3064
+    - 3064
+  label: 釋十地諸頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-8
+    span:
+    - body
+    - 3069
+    - 3069
+  label: 第一菩提心歡喜地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-9
+    span:
+    - body
+    - 7497
+    - 7497
+  label: 第二菩提心離垢地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-10
+    span:
+    - body
+    - 9491
+    - 9491
+  label: 第三菩提心發光地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-11
+    span:
+    - body
+    - 11269
+    - 11269
+  label: 第四菩提心焰慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-12
+    span:
+    - body
+    - 12409
+    - 12409
+  label: 第五菩提心難勝地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-13
+    span:
+    - body
+    - 12547
+    - 12547
+  label: 第六菩提心現前地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-14
+    span:
+    - body
+    - 43329
+    - 43329
+  label: 第七菩提心遠行地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-15
+    span:
+    - body
+    - 43605
+    - 43605
+  label: 第八菩提心不動地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-16
+    span:
+    - body
+    - 44717
+    - 44717
+  label: 第九菩提心善慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-17
+    span:
+    - body
+    - 44894
+    - 44894
+  label: 第十菩提心法雲地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-18
+    span:
+    - body
+    - 45974
+    - 45974
+  label: 釋佛地諸頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0344_B_001-mulu-19
+    span:
+    - body
+    - 50834
+    - 50834
+  label: 結義
+  type: mulu
+  level: 1
+hash: sha256:5768055706676705605370b2a1878897b7b5527fc81a472a4dbaf13f17dec9d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
